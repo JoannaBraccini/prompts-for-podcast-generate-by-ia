@@ -22,7 +22,12 @@
   <a href="https://www.notion.so/Ctrl-Alt-Deploy-Reiniciando-bugs-lan-ando-ideias-1ec83f75a57881fcb415c7cd5c093ca6?pvs=4" target="_blank">
     🎙️VISITE O PODCAST
   </a>
+   ou OUÇA ABAIXO
 </p>
+
+<div align="center">
+    <audio src="output/PodcastAI01.MP3" controls title="Episodio 1"></audio>
+</div>
 
 # Projeto Podcast Gerado por I.A.s
 
