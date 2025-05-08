@@ -17,15 +17,9 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
+### <div align="center">🎙️ [VISITE O PODCAST](https://www.notion.so/Ctrl-Alt-Deploy-Reiniciando-bugs-lan-ando-ideias-1ec83f75a57881fcb415c7cd5c093ca6?pvs=4) ou</div>
 
-<p align="center">
-  <a href="https://www.notion.so/Ctrl-Alt-Deploy-Reiniciando-bugs-lan-ando-ideias-1ec83f75a57881fcb415c7cd5c093ca6?pvs=4" target="_blank">
-    🎙️VISITE O PODCAST
-  </a>
-   ou
-</p>
-
-🎧 [Ouça o episódio](https://github.com/JoannaBraccini/NOME-DO-REPO/raw/main/output/PodcastAI01.MP3)
+### <div align="center">🎧 [Ouça o episódio](https://github.com/JoannaBraccini/NOME-DO-REPO/raw/main/output/PodcastAI01.MP3)</div>
 
 # Projeto Podcast Gerado por I.A.s
 
